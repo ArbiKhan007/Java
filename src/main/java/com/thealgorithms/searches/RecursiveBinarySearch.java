@@ -3,6 +3,8 @@
 // File Name should be RecursiveBinarySearch.java
 // Explanation:- https://www.tutorialspoint.com/java-program-for-binary-search-recursive
 
+package com.thealgorithms.searches;
+
 import java.util.*;
 
 // Create a SearchAlgorithm class with a generic type
